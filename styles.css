@@ -1,0 +1,37 @@
+body{
+   padding:10px 10px; 
+background-color:rgb(153,70,57)
+}
+.menu{
+grid-template-columns: auto auto auto auto;
+
+}
+.btn{
+    background-color:rgb(241, 148, 131);
+    border-radius: 20px;
+    border-color: rgb(248,195,205);
+    padding:20px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: rgb(248,195,205);
+    color:rgb(86,63,46);
+}
+a menu{
+color: aquamarine;
+}
+
+.btn:hover{
+
+    
+   background-color: rgb(248,195,205);
+}
+.rabbit{
+float:right;
+    
+}
+.projectList{
+    
+    grid-template-columns: auto  ;
+    float: left;
+
+}
