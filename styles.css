@@ -16,13 +16,13 @@ grid-template-columns: auto auto auto auto;
     text-shadow: rgb(248,195,205);
     color:rgb(86,63,46);
 }
-a menu{
-color: aquamarine;
+p{
+    color: burlywood;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
-.btn:hover{
-
-    
+.btn:hover{    
    background-color: rgb(248,195,205);
 }
 .rabbit{
@@ -30,7 +30,6 @@ float:right;
     
 }
 .projectList{
-    
     grid-template-columns: auto  ;
     float: left;
 
